@@ -57,7 +57,7 @@
                                         <i class="fa fa-lock" aria-hidden="true"></i>
                                     </div>
                                 </div>
-                                <p class="p-bottom-w3ls1">Already have an account? <a href="signUp.jsp">Login here</a></p>
+                                <p class="p-bottom-w3ls1">Already have an account? <a href="/signUp.jsp">Login here</a></p>
                                 <div class="clear"></div>
                                 <div class="submit-w3l">
                                     <input type="submit" value="Register">
