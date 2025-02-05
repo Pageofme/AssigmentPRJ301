@@ -38,7 +38,7 @@
                                     </div>
                                 </div>
                                 <p class="p-bottom-w3ls">Forgot Password?<a class href="#">  Click here</a></p>
-                                <p class="p-bottom-w3ls1">New User?<a class href="register.jsp">  Register here</a></p>
+                                <p class="p-bottom-w3ls1">New User?<a class href="/register.jsp">  Register here</a></p>
                                 <div class="clear"></div>
                                 <div class="submit-w3l">
                                     <input type="submit" value="Login">
